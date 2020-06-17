@@ -22,6 +22,7 @@ p stops[-5]
 p stops.slice!(2)
 stops.insert(2, "Falkirk High")
 #9. Reverse the positions of the stops in the array
+stops.reverse!
 #10 Print out all the stops using a for loop
 
 p stops
